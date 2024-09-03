@@ -20,6 +20,7 @@ int main()
     printf("String length (built in): %d\n",strlen(my_string));
 
     printf("\n\n=== ByteGarage ===\n\n");
+     printf("\n\n=== Test ===\n\n");
 
     return 0;
 }
